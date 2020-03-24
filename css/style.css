@@ -1,0 +1,14 @@
+image {
+    max-width: 250px; 
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+body{
+font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
